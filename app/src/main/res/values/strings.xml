@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Focus Keeper</string>
+
+    <string name="title_blocked_apps">Blocked apps</string>
+    <string name="title_activity_log">Activity log</string>
+    <string name="title_usage">Usage today</string>
+
+    <string name="dashboard_title">Focus Keeper</string>
+    <string name="dashboard_subtitle">A visible focus tool for your own phone. Track your app usage and block or remove distracting apps.</string>
+
+    <string name="focus_session">Focus session</string>
+    <string name="focus_session_desc">When ON, opening a blocked app shows a full-screen reminder and sends you back home.</string>
+
+    <string name="permissions_header">Permissions</string>
+    <string name="perm_usage_status">Usage access: %1$s</string>
+    <string name="perm_overlay_status">Display over other apps: %1$s</string>
+    <string name="granted">granted</string>
+    <string name="not_granted">not granted</string>
+    <string name="grant">Grant</string>
+    <string name="need_permissions">Grant Usage access and \"Display over other apps\" first.</string>
+
+    <string name="open_blocked_apps">Choose apps to block / uninstall</string>
+    <string name="open_activity_log">View activity log</string>
+    <string name="open_usage">View usage today</string>
+
+    <string name="block_switch">Block</string>
+    <string name="uninstall">Uninstall</string>
+
+    <string name="clear_log">Clear log</string>
+    <string name="log_empty">No activity recorded yet.</string>
+
+    <string name="usage_need_access">Grant Usage access to see which apps you used today.</string>
+    <string name="usage_empty">No usage recorded yet today.</string>
+    <string name="grant_usage_access">Grant usage access</string>
+
+    <string name="block_title">Stay focused</string>
+    <string name="block_message">%1$s is blocked during your focus session.</string>
+    <string name="go_home">Back to home screen</string>
+
+    <string name="focus_channel_name">Focus monitor</string>
+    <string name="focus_notif_title">Focus session active</string>
+    <string name="focus_notif_text">Blocked apps are paused while this is on.</string>
+</resources>
